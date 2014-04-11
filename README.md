@@ -5,7 +5,7 @@ alt="Project Awesome"/></a>
 
 - Are you tired of the lack of trust around the organization?
 
-- Are you tired of the exclusivity of [certain repos](http://www.heinzmarketing.com/assets/yousuck.jpg)
+- Are you tired of the exclusivity of [certain repos](http://www.heinzmarketing.com/assets/yousuck.jpg).
 
 - Are you tired able of not being able to to work on new and exciting projects?
 
@@ -19,4 +19,4 @@ alt="Project Awesome"/></a>
 
 **Well we are fed up, too!**
 
-Why wait any longer, join the [revolution](https://stash.orbitz.net/users/bgibson/repos/awesome/browse/revolutionaries/) today.
+**Why wait any longer, join the [revolution](https://stash.orbitz.net/users/bgibson/repos/awesome/browse/revolutionaries/) today.**
