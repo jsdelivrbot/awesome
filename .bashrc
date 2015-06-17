@@ -69,7 +69,7 @@ alias 180="dlt 180"
 alias 184="dlt 184"
 
 rjt () {
-    JENKINS_BUILD_NUMBER=$[1 + $(curl -s http://jenkins.test.net/job/test-repo/lastBuild/buildNumber\ |  xargs)]
+    JENKINS_BUILD_NUMBER=$[1 + $(curl -s http://jenkins.test.net/job/test-repo/lastBuild/buildNumber |  xargs)]
 
     curl -X POST "http://jenkins.test.net/job/test-repo/buildWithParameters?git_branch=$(git rev-parse --abbrev-ref HEAD)&git_repo=https://blah.com/test-repo.git&email=$(git config user.email)" -d token=go
 
